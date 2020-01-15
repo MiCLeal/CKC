@@ -6,4 +6,3 @@
 ## SavedVariablesPerCharacter: CKCCharDB
 
 Core.lua
-Settings.lua
