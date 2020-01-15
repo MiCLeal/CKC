@@ -1,0 +1,9 @@
+## Interface: 80300
+## Author: Grun
+## Version: 0.0.1
+## Title: CKC - Character Kill Count
+## SavedVariables: CKCDB
+## SavedVariablesPerCharacter: CKCCharDB
+
+Core.lua
+Settings.lua
